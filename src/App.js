@@ -118,7 +118,7 @@ const MyComponent = () => {
         <ListComponent todoList={todoList} removeTodo={removeTodo} updateTodo={updateTodo} />
       </main>
       
-      <footer>(c)Comstudy21. since 2023.</footer>
+      <footer>(c)solomonDev. since 2023.</footer>
     </div>
   );
 };
